@@ -46,6 +46,6 @@ body {
 }
 
 #nav ul li :hover {
-	background: green;
+	background: teal;
 	transition: all ease-in-out 0.30s;
 }
