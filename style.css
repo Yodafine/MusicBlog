@@ -8,18 +8,15 @@ body {
 	margin: 0px;
 	padding: 0px;
 }
-
 #nav {
 	background: black;
 	width: 100%;
 	height: 60px;
 	line-height: 60px;
 }
-
 #nav h1 {
 	float: left;
 }
-
 #nav h1 a {
 	text-decoration: none;
 	color: white;
@@ -27,29 +24,30 @@ body {
 	font-family: 'Josefin Slab', serif;
 
 }
-
 #nav ul {
 	float: right;
 }
-
 #nav ul li {
 	text-decoration: none;
 	list-style-type: none;
 	display: inline-block;
 }
-
 #nav ul li a {
 	text-decoration: none;
 	color: white;
 	padding: 25px;
 	font-family: 'Josefin Slab', serif;
 }
-
 #nav ul li :hover {
 	background: teal;
 	transition: all ease-in-out 0.30s;
 }
-
+.section {
+	background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px; 
+}
 .quote {
 	font-size: 12pt;
     text-align: right;
