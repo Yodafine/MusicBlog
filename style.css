@@ -49,3 +49,9 @@ body {
 	background: teal;
 	transition: all ease-in-out 0.30s;
 }
+
+.quote {
+	font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
