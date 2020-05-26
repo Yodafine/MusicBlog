@@ -46,7 +46,7 @@ body {
 h1 {
 	font-size: 15px;
 	color: #20bcd5;
-	text-align: center;
+	text-align: left;
 	padding: 18px 0 18px 0;
 	margin: 0 0 10px 0;
 	font-family: 'Josefin Slab', serif;
@@ -54,7 +54,6 @@ h1 {
 h1 span {
     border: 4px dashed #20bcd5;
     padding: 10px;
-    text-align: left;
 }
 p {
     padding: 0;
