@@ -73,3 +73,12 @@ p {
     margin-top: 10px;
     font-family: 'Josefin Slab', serif;
 }
+table {
+    width: 100%;
+}
+table, th, td {
+    border: 2px solid #cecece;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
