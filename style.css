@@ -18,6 +18,7 @@ body {
 	float: left;
 }
 #nav h1 a {
+	font-size: 30px;
 	text-decoration: none;
 	color: white;
 	margin-left: 25px;
