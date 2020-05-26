@@ -54,7 +54,7 @@ h1 {
 h1 span {
     border: 4px dashed #20bcd5;
     padding: 10px;
-    text-align: center;
+    text-align: left;
 }
 p {
     padding: 0;
