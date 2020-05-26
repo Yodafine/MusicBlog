@@ -56,9 +56,8 @@ h1 span {
     padding: 20px;
 }
 p {
-    padding: 0;
-    margin: 0;
-    text-align: center;
+    padding: auto;
+    margin: auto;
     font-size: 150%;
     font-family: 'Josefin Slab', serif;
 }
