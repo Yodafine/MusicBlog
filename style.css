@@ -2,10 +2,6 @@
 
 body {
 	font-family: 'Josefin Slab', serif;
-	font-size: 13pt;
-    background-color: #efefef;
-    padding: 10px;
-    margin: 0;
 }
 
 * {
@@ -63,6 +59,7 @@ h1 span {
 p {
     padding: 0;
     margin: 0;
+    text-align: center;
     font-family: 'Josefin Slab', serif;
 }
 .section {
@@ -70,6 +67,7 @@ p {
 	padding: 25px;
 	margin-bottom: 20px;
 	border-radius: 20px;
+	text-align: center;
 	font-family: 'Josefin Slab', serif; 
 }
 .quote {
