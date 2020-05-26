@@ -49,6 +49,7 @@ h1 {
 	text-align: center;
 	padding: 18px 0 18px 0;
 	margin: 0 0 10px 0;
+	font-family: 'Josefin Slab', serif;
 }
 h1 span {
     border: 4px dashed #20bcd5;
@@ -57,15 +58,18 @@ h1 span {
 p {
     padding: 0;
     margin: 0;
+    font-family: 'Josefin Slab', serif;
 }
 .section {
 	background-color: #fff;
 	padding: 15px;
 	margin-bottom: 10px;
-	border-radius: 10px; 
+	border-radius: 10px;
+	font-family: 'Josefin Slab', serif; 
 }
 .quote {
 	font-size: 12pt;
     text-align: right;
     margin-top: 10px;
+    font-family: 'Josefin Slab', serif;
 }
