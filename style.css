@@ -75,11 +75,13 @@ p {
     margin-top: 10px;
     font-family: 'Josefin Slab', serif;
 }
-
 .img-death {
 	width: 300px;
 }
-
+.post {
+	border: 5px dashed #20bcd5;
+    padding: auto;
+}
 table {
     width: 100%;
 }
