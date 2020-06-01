@@ -81,13 +81,5 @@ p {
 .post {
 	border: 5px dashed #20bcd5;
     padding: auto;
-}
-table {
-    width: 100%;
-}
-table, th, td {
-    border: 2px solid #cecece;
-    border-collapse: collapse;
-    text-align: center;
-    table-layout: fixed;
+    margin: auto; 
 }
