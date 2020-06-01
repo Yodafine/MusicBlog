@@ -75,6 +75,11 @@ p {
     margin-top: 10px;
     font-family: 'Josefin Slab', serif;
 }
+
+.img-death {
+	width: 300px;
+}
+
 table {
     width: 100%;
 }
