@@ -78,7 +78,7 @@ p {
 .img-death {
 	width: 300px;
 }
-.post {
+.post p {
 	border: 5px dashed #20bcd5;
     padding: auto;
     margin-right: 100px; 
