@@ -40,7 +40,7 @@ body {
 	font-family: 'Josefin Slab', serif;
 }
 #nav ul li :hover {
-	background: teal;
+	background: #008080;
 	transition: all ease-in-out 0.30s;
 }
 h1 {
