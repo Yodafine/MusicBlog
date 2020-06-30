@@ -53,7 +53,7 @@ h1 {
 	font-family: 'Titillium Web', sans-serif;
 }
 h1 span {
-    border: 5px dashed #008080;
+    border: 5px solid #008080;
     padding: 20px;
 }
 p {
@@ -80,7 +80,7 @@ p {
 	width: 300px;
 }
 .post {
-	border: 5px dashed #008080;
+	border: 5px solid #008080;
     padding: auto;
     margin: auto; 
 }
