@@ -15,7 +15,6 @@ body {
 }
 #nav h1 {
 	float: left;
-	line-height: 70px;
 }
 #nav h1 a {
 	font-size: 40px;
@@ -23,7 +22,7 @@ body {
 	color: white;
 	padding: 25px;
 	font-family: 'New Rocker', cursive;
-
+	line-height: 70px;
 }
 #nav ul {
 	float: right;
