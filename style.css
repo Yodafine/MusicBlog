@@ -23,7 +23,6 @@ body {
 	color: white;
 	padding: 25px;
 	font-family: 'Grenze', serif;
-	font-weight: lighter;
 
 }
 #nav ul {
@@ -37,7 +36,7 @@ body {
 #nav ul li a {
 	text-decoration: none;
 	color: white;
-	padding: 25px;
+	padding: 30px;
 	font-family: 'Titillium Web', sans-serif;
 }
 #nav ul li :hover {
