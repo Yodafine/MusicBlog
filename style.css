@@ -5,7 +5,8 @@ body {
 }
 
 * {
-	margin: 0px;
+	background-color: #008080;
+	margin: 200px;
 	padding: 0px;
 
 /* Menu/header */
