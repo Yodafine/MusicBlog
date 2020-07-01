@@ -87,8 +87,7 @@ h1 span {
 	margin-right: 25px;
 }
 .post {
-	border: 5px solid #008080;
-    padding: auto;
+	background-color: #008080;
     margin-left: 200px;
     margin-right: 200px;
 }
