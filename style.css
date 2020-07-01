@@ -5,8 +5,10 @@ body {
 }
 
 * {
-	margin: 0px;
-	padding: 0px;
+	background-color: #008080;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: auto;
 
 /* Menu/header */
 }
