@@ -92,3 +92,10 @@ h1 span {
     margin-left: 200px;
     margin-right: 200px;
 }
+
+.post p {
+	padding: 20px;
+    margin: auto;
+    font-size: 120%;
+    font-family: 'Titillium Web', sans-serif;
+}
