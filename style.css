@@ -7,6 +7,8 @@ body {
 * {
 	margin: 0px;
 	padding: 0px;
+
+/* Menu/header */
 }
 #nav {
 	background: black;
@@ -20,7 +22,7 @@ body {
 	font-size: 40px;
 	text-decoration: none;
 	color: white;
-	padding: 28px;
+	padding: 25px;
 	font-family: 'New Rocker', cursive;
 	line-height: 70px;
 }
@@ -43,6 +45,8 @@ body {
 	background: #008080;
 	transition: all ease-in-out 0.30s;
 }
+
+/* About Me */
 h1 {
 	font-size: 35px;
 	color: #008080;
@@ -58,7 +62,7 @@ h1 span {
 p {
     padding: 20px;
     margin: auto;
-    font-size: 150%;
+    font-size: 100%;
     font-family: 'Titillium Web', sans-serif;
 }
 .section {
@@ -75,6 +79,8 @@ p {
     margin-top: 10px;
     font-family: 'Titillium Web', sans-serif;
 }
+
+/* Front page: First post */
 .img-death {
 	width: 300px;
 	margin-top: 25px;
