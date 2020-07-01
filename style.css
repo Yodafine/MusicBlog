@@ -59,7 +59,7 @@ h1 span {
     border: 5px solid #008080;
     padding: 20px;
 }
-p {
+.section p {
     padding: 20px;
     margin: auto;
     font-size: 100%;
